@@ -39,14 +39,15 @@ Survive as long as possible by:
 
 ## 🖥️ Controls
 
-| Key     | Action        |
-|---------|--------------|
-| W       | Move Up      |
-| S       | Move Down    |
-| A       | Move Left    |
-| D       | Move Right   |
-| SPACE   | Shoot Laser  |
-| Q       | Quit Game    |
+| Key     | Action            |
+|---------|-------------------|
+| W       | Move Up           |
+| S       | Move Down         |
+| A       | Move Left         |
+| D       | Move Right        |
+| SPACE   | Shoot Laser       |
+| Q       | Quit Game         |
+| R       | Exit Fullscreen   |
 
 ---
 
@@ -63,4 +64,12 @@ Survive as long as possible by:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d1b92294-22e4-4348-8c50-9156a6e8ea8c" width="700">
 </p>
+
+-Storm and Game Over Screen Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/39137ac7-e1ba-4cc2-8849-da7b63d867f8" width="700">
+</p>
+
+
 
