@@ -21,7 +21,7 @@
 - 🤖 Enemy AI (chasing + shooting)
 - 🌪️ Dynamic storm survival mechanic
 - ⚡ Energy system with regeneration
-- ⏱️ Real-time survival timer![GameplayPreview](https://github.com/user-attachments/assets/815c1b1b-0ffc-42b8-b0e6-ec6a32f77cb6)
+- ⏱️ Real-time survival timer
 
 - 🖥️ ASCII-based rendering engine
 - 🔲 Fullscreen console experience
