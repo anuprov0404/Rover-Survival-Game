@@ -65,11 +65,13 @@ Survive as long as possible by:
   <img src="https://github.com/user-attachments/assets/d1b92294-22e4-4348-8c50-9156a6e8ea8c" width="700">
 </p>
 
--Storm and Game Over Screen Preview
+-Storm Preview
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f9e24cca-32a5-4012-a581-f80853bfecce" width="700">
 </p>
+
+Thank you! 
 
 
 
