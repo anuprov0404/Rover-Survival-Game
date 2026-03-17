@@ -658,7 +658,7 @@ enemies[3] = Enemy(25, 12);
             cout << "                                     " << endl;
         }
 
-        cout << "Move WASD | SPACE to shoot | Q to quit:   " << endl;
+        cout << "Move WASD | SPACE to shoot | Q to quit   " << endl;
 
         if (rover.getEnergy() <= 0) break;
 
