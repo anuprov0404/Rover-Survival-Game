@@ -68,8 +68,9 @@ Survive as long as possible by:
 -Storm and Game Over Screen Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/39137ac7-e1ba-4cc2-8849-da7b63d867f8" width="700">
+  <img src="https://github.com/user-attachments/assets/f9e24cca-32a5-4012-a581-f80853bfecce" width="700">
 </p>
+
 
 
 
