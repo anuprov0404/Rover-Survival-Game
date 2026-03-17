@@ -60,6 +60,7 @@ Survive as long as possible by:
 - Enemy Logic Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b254fb8d-f86c-4c0c-9416-1a496dc68b51" width="700">
+  <img src="https://github.com/user-attachments/assets/832bfa53-2c96-49b8-9e9f-19fc18165661" width="700">
 </p>
+
 
