@@ -21,7 +21,8 @@
 - 🤖 Enemy AI (chasing + shooting)
 - 🌪️ Dynamic storm survival mechanic
 - ⚡ Energy system with regeneration
-- ⏱️ Real-time survival timer
+- ⏱️ Real-time survival timer![GameplayPreview](https://github.com/user-attachments/assets/815c1b1b-0ffc-42b8-b0e6-ec6a32f77cb6)
+
 - 🖥️ ASCII-based rendering engine
 - 🔲 Fullscreen console experience
 
@@ -60,7 +61,6 @@ Survive as long as possible by:
 - Enemy Logic Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/832bfa53-2c96-49b8-9e9f-19fc18165661" width="700">
+  <img src="https://github.com/user-attachments/assets/d1b92294-22e4-4348-8c50-9156a6e8ea8c" width="700">
 </p>
-
 
