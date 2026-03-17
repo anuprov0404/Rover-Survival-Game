@@ -51,10 +51,15 @@ Survive as long as possible by:
 
 ## 📸 Demo / Gameplay
 
-## 🎬 Start Screen Preview
+- Start Screen Preview
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/26e2acf5-af88-4689-b3e1-2b64f0fafadf" width="700">
 </p>
 
+- Enemy Logic Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b254fb8d-f86c-4c0c-9416-1a496dc68b51" width="700">
+</p>
 
